@@ -1,0 +1,26 @@
+{
+  "description": "Three research-based comparison candidates; not hands-on tests. Existing listing-check records are historical and were not repeated in this build.",
+  "products": [
+    {
+      "slug": "cable-organizers",
+      "name": "Smartish Bigger Cable Wrangler Magnetic Cord Holder",
+      "guide": "reviews/cable-organizers.html",
+      "affiliate_url": "https://www.amazon.com/dp/B0FG8N3Z2T?tag=trendvaultrev-20",
+      "before_buying": "Check cord compatibility and the selected package contents. This option uses a weighted base rather than adhesive mounting."
+    },
+    {
+      "slug": "under-shelf-baskets",
+      "name": "Simple Houseware Under-Shelf Wire Baskets, White, 2-Pack",
+      "guide": "reviews/under-shelf-baskets.html",
+      "affiliate_url": "https://www.amazon.com/dp/B07K6TDCLT?tag=trendvaultrev-20",
+      "before_buying": "Measure shelf thickness, clearance and cabinet-door space before choosing a basket."
+    },
+    {
+      "slug": "pet-hair-removers",
+      "name": "ChomChom Original Reusable Pet Hair Roller, White",
+      "guide": "reviews/pet-hair-removers.html",
+      "affiliate_url": "https://www.amazon.com/dp/B00BAGTNAQ?tag=trendvaultrev-20",
+      "before_buying": "Check fabric compatibility first. For suitable furnishings; do not use directly on your pet."
+    }
+  ]
+}

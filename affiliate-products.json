@@ -12,7 +12,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Nulaxy Adjustable Dual-Fold Laptop Stand"
+    "product": "Nulaxy Adjustable Dual-Fold Laptop Stand",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:31.863757+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/adjustable-laptop-stands.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B077B9W343?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "bluetooth-item-trackers",
@@ -27,7 +42,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Life360 Tile Bluetooth Tracker, Black, 1-Pack"
+    "product": "Life360 Tile Bluetooth Tracker, Black, 1-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:31.867205+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/bluetooth-item-trackers.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0D63657GY?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "monitor-light-bars",
@@ -42,7 +72,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "BenQ ScreenBar Pro, Black"
+    "product": "BenQ ScreenBar Pro, Black",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:31.865828+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/monitor-light-bars.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0CZ9P1QW9?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "phone-tripod-stands",
@@ -57,7 +102,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "UBeesize Flexible Mini Phone Tripod"
+    "product": "UBeesize Flexible Mini Phone Tripod",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:31.874728+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/phone-tripod-stands.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B06Y2VP3C7?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "portable-power-banks",
@@ -72,7 +132,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "TORRAS MiniMag 5,000mAh Magnetic Power Bank"
+    "product": "TORRAS MiniMag 5,000mAh Magnetic Power Bank",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:44.866987+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/portable-power-banks.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0CZP3CDSZ?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "usb-c-desktop-hubs",
@@ -87,7 +162,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Anker 7-in-1 USB-C Hub, 4K at 60Hz"
+    "product": "Anker 7-in-1 USB-C Hub, 4K at 60Hz",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:31.872362+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/usb-c-desktop-hubs.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0DXJQT19B?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "wireless-charging-pads",
@@ -102,7 +192,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Anker 313 Wireless Charging Pad"
+    "product": "Anker 313 Wireless Charging Pad",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:31.895611+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/wireless-charging-pads.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B07THHQMHM?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "drawer-divider-organizers",
@@ -117,7 +222,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "SpaceAid Bamboo Drawer Dividers, 4 Dividers with 9 Inserts"
+    "product": "SpaceAid Bamboo Drawer Dividers, 4 Dividers with 9 Inserts",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:40.434419+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/drawer-divider-organizers.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B094624Q8Z?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "over-door-hooks",
@@ -132,7 +252,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "DOKU Over-Door Hook Racks, Matte Black, 2-Pack"
+    "product": "DOKU Over-Door Hook Racks, Matte Black, 2-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:40.454280+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/over-door-hooks.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0BLSF7WYS?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "rotating-pantry-organizers",
@@ -147,7 +282,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Copco Nonskid Lazy Susan Turntable, 12-Inch"
+    "product": "Copco Nonskid Lazy Susan Turntable, 12-Inch",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:40.424566+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/rotating-pantry-organizers.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0036OQWTU?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "stackable-shoe-organizers",
@@ -162,7 +312,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Large Stackable Clear Shoe Storage Boxes, Black, 12-Pack"
+    "product": "Large Stackable Clear Shoe Storage Boxes, Black, 12-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:40.401580+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/stackable-shoe-organizers.html?verify=20261023124027",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0GY3VHMCJ?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "vacuum-storage-bags",
@@ -177,7 +342,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Spacesaver Jumbo Vacuum Storage Bags with Hand Pump, 6-Pack"
+    "product": "Spacesaver Jumbo Vacuum Storage Bags with Hand Pump, 6-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:50.805031+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/vacuum-storage-bags.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B00X8KSKF6?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "air-fryer-silicone-liners",
@@ -192,7 +372,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "HIC Kitchen Collapsible Square Silicone Air Fryer Liner"
+    "product": "HIC Kitchen Collapsible Square Silicone Air Fryer Liner",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:50.860251+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/air-fryer-silicone-liners.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0DBJ97Z73?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "digital-kitchen-scales",
@@ -207,7 +402,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Etekcity Digital Kitchen Scale, 11 lb / 5 kg"
+    "product": "Etekcity Digital Kitchen Scale, 11 lb / 5 kg",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:50.830257+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/digital-kitchen-scales.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0113UZJE2?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "reusable-coffee-filters",
@@ -222,7 +432,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "GOLDTONE Reusable Basket Filter for Hamilton Beach"
+    "product": "GOLDTONE Reusable Basket Filter for Hamilton Beach",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:50.833347+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/reusable-coffee-filters.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B01MQY4LPD?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "silicone-food-storage-bags",
@@ -237,7 +462,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Stasher Silicone Sandwich Bag, Clear, 28 oz"
+    "product": "Stasher Silicone Sandwich Bag, Clear, 28 oz",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:50.807158+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/silicone-food-storage-bags.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B01DZQT9CU?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "collapsible-travel-pet-bowls",
@@ -252,7 +492,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Comsun Collapsible Dog Bowls, 2-Pack"
+    "product": "Comsun Collapsible Dog Bowls, 2-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:50.861092+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/collapsible-travel-pet-bowls.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B019B53YVQ?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "pet-grooming-gloves",
@@ -267,7 +522,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "DELOMO Pet Grooming Gloves, Blue, 1 Pair"
+    "product": "DELOMO Pet Grooming Gloves, Blue, 1 Pair",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:57.870438+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/pet-grooming-gloves.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B01N9KSITZ?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "pet-slow-feeder-bowls",
@@ -282,7 +552,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Outward Hound Fun Feeder Slo Bowl, Blue Notch, 8.8-Inch"
+    "product": "Outward Hound Fun Feeder Slo Bowl, Blue Notch, 8.8-Inch",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:57.877859+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/pet-slow-feeder-bowls.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0787FVCBW?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "pet-water-fountains",
@@ -297,7 +582,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Veken C1 Classic Pet Water Fountain, 95 oz / 2.8 L"
+    "product": "Veken C1 Classic Pet Water Fountain, 95 oz / 2.8 L",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:57.909267+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/pet-water-fountains.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B08NCDBT7Q?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "car-seat-gap-organizers",
@@ -312,7 +612,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Lusso Gear Car Seat Gap Organizers, Gray, 2-Pack"
+    "product": "Lusso Gear Car Seat Gap Organizers, Gray, 2-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:57.884062+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/car-seat-gap-organizers.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B07KQJPX17?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "trunk-cargo-organizers",
@@ -327,7 +642,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "FORTEM Foldable Trunk Organizer"
+    "product": "FORTEM Foldable Trunk Organizer",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:57.874732+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/trunk-cargo-organizers.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B01DIMTWCS?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "microfiber-cleaning-cloth-sets",
@@ -342,7 +672,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack"
+    "product": "Amazon Basics Microfiber Cleaning Cloths, 24-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:39:57.928792+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/microfiber-cleaning-cloth-sets.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B009FUF6DM?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "reusable-lint-rollers",
@@ -357,7 +702,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "ChomChom Original Reusable Pet Hair Roller, White"
+    "product": "ChomChom Original Reusable Pet Hair Roller, White",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:04.518377+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/reusable-lint-rollers.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B00BAGTNAQ?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "shower-squeegees",
@@ -372,7 +732,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "OXO Good Grips Stainless Steel Squeegee"
+    "product": "OXO Good Grips Stainless Steel Squeegee",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:04.522358+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/shower-squeegees.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B000NZKHKU?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "cable-organizers",
@@ -387,7 +762,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Smartish Bigger Cable Wrangler Magnetic Cord Holder"
+    "product": "Smartish Bigger Cable Wrangler Magnetic Cord Holder",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:04.526396+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/cable-organizers.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B0FG8N3Z2T?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "under-shelf-baskets",
@@ -402,7 +792,22 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "Simple Houseware Under-Shelf Wire Baskets, White, 2-Pack"
+    "product": "Simple Houseware Under-Shelf Wire Baskets, White, 2-Pack",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:04.585906+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/under-shelf-baskets.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B07K6TDCLT?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   },
   {
     "slug": "pet-hair-removers",
@@ -417,6 +822,21 @@
     "buy_now": true,
     "unavailable": "",
     "result": "product page loaded",
-    "product": "ChomChom Original Reusable Pet Hair Roller, White"
+    "product": "ChomChom Original Reusable Pet Hair Roller, White",
+    "post_publication_test": {
+      "checked_at": "2026-10-23T12:40:04.523464+00:00",
+      "published_url": "https://gmahon20.github.io/reviews/pet-hair-removers.html?verify=20261023123941",
+      "guide_status": 200,
+      "published_match": true,
+      "disclosure_present": true,
+      "http_status": 200,
+      "final_url": "https://www.amazon.com/dp/B00BAGTNAQ?tag=trendvaultrev-20",
+      "title_match": true,
+      "asin_match": true,
+      "tag_preserved": true,
+      "add_to_cart": true,
+      "buy_now": true,
+      "pass": true
+    }
   }
 ]
